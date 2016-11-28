@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Biz</string>
+    <string name="sharing">分享中…</string>
+
+    <string name="upgrade_policy_url">http://static.hahabo.com/config/android/upgradepolicy</string>
+    <string name="upgrade_policy_url_d">http://static.test.zhibo.me4399.com/config/android/upgradepolicy</string>
+
+    <string name="upgrade_downloading_title">哈直播</string>
+    <string name="upgrade_downloading_content">努力下载中…</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_channel_id">SnapShoot</string>
+
+    <string name="umeng_app_key_debug">573e73bf67e58e6c7500057d</string>
+    <string name="umeng_app_key_release">573e740567e58e72ab004647</string>
+
+    <string name="bugly_app_id_debug">900031046</string>
+    <string name="bugly_app_id_release">900031050</string>
+
+
+    <string name="weixin_appid">wx41b63aa4822e7059</string>
+    <string name="weixin_appsecret">e43beb5f17e6b97f38a47be3a32c66d1</string>
+
+
+    <string name="qq_appid">1105427860</string>
+    <string name="qq_appkey">vWYAHuaXL3LCgjQe</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@id/android:message"
+    android:width="200dp"
+    android:height="100dp"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/background_ada_toast"
+    android:gravity="center"
+    android:lineSpacingMultiplier="1.5"
+    android:padding="8dp"
+    android:textColor="#ffffffff"
+    android:textSize="20sp" />
